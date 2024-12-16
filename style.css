@@ -47,31 +47,20 @@ button{
   width:20vh;
   margin-bottom:5px;
   border-radius:5px;
+  font-size:5vw;
+  border-color:rgb(0, 0, 0);
+  margin:1.5vw;
+  height:5vh;
+  width:20vh;
 }
 #increment-btn{
   background:rgb(41, 198, 57);
-  border-color:rgb(0, 0, 0);
-  margin:1.5vw;
-  height:5vh;
-  font-size:6vw;
-  width:20vh;
-  /*box-shadow*/
 }
 #save-btn{
   background:rgb(15, 17, 47);
-  border-color:rgb(0, 0, 0);
-  margin:1.5vw;
-  height:5vh;
-  font-size:6vw;
-  width:20vh;
 }
 #save-remove{
   background-color:rgb(143, 45, 45);
-  border-color:black;
-  height:5vh;
-  width:20vh;
   align-items:center;
-  margin:1.5vw;
   margin-bottom:3vw;
-  font-size:6vw;
 }
