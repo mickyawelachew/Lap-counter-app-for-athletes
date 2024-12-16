@@ -16,5 +16,5 @@ function save(){
 
 }
 function remove(){
-  saveEl.textContent = "Laps Finished: "
+  saveEl.textContent = "Laps Recorded: "
 }
