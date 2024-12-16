@@ -62,7 +62,7 @@ button{
   border-color:rgb(0, 0, 0);
   margin:1.5vw;
   height:5vh;
-  font-size:17vw;
+  font-size:7vw;
   width:20vh;
 }
 #save-remove{
@@ -73,5 +73,5 @@ button{
   align-items:center;
   margin:1.5vw;
   margin-bottom:3vw;
-  font-size:17vw;
+  font-size:7vw;
 }
