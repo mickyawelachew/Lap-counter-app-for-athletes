@@ -8,10 +8,11 @@ body{
   background-size:100vw 100vh;
 }
 #back{
-  margin-top:30vh;
   background-color: rgba(0, 0, 0, 0.762);
   max-width:100%;
-  margin:auto;
+  margin-left:auto;
+  margin-right:auto;
+  marging-top:20vh;
   padding-left:20vw;
   padding-right:20vw;
   padding-top:5vw;
