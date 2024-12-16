@@ -11,11 +11,8 @@ body{
 #back{
   background-color: rgba(0, 0, 0, 0.762);
   max-width:85vw;
-  margin-left:auto;
-  margin-right:auto;
+  width:85vw;
   marging-bottom:-20vh;
-  padding-left:20vw;
-  padding-right:20vw;
   padding-top:5vw;
   padding-bottom:5vw;
   border:3px solid rgba(75, 74, 74, 0.318); 
