@@ -8,7 +8,7 @@ body{
   text-align:center;
   height:100%;
   width:100%;
-  background-repeat:n0-repeat;
+  background-repeat:no-repeat;
 }
 #back{
   background-color: rgba(0, 0, 0, 0.762);
