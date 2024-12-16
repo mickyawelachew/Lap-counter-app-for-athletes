@@ -29,7 +29,7 @@ body{
 h1{
   margin-top:10px;
   margin-bottom:20px;
-  font-size:80px;
+  font-size:18vw;
 }
 
 h2{
@@ -53,7 +53,7 @@ button{
   border-color:rgb(0, 0, 0);
   margin:1.5vw;
   height:5vh;
-  font-size:17px;
+  font-size:6vw;
   width:20vh;
   /*box-shadow*/
 }
@@ -62,7 +62,7 @@ button{
   border-color:rgb(0, 0, 0);
   margin:1.5vw;
   height:5vh;
-  font-size:7vw;
+  font-size:6vw;
   width:20vh;
 }
 #save-remove{
@@ -73,5 +73,5 @@ button{
   align-items:center;
   margin:1.5vw;
   margin-bottom:3vw;
-  font-size:7vw;
+  font-size:6vw;
 }
