@@ -10,7 +10,7 @@ body{
 }
 #back{
   background-color: rgba(0, 0, 0, 0.762);
-  max-width:100%;
+  max-width:85vw;
   margin-left:auto;
   margin-right:auto;
   marging-bottom:-20vh;
