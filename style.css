@@ -1,0 +1,75 @@
+body{
+  margin-top:20vh;
+  background-image:url(track-and-field-turn.jpg);
+  color:white;
+  background-size:cover;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-weight:bold;
+  text-align:center;
+  height:100vh;
+}
+#back{
+  background-color: rgba(0, 0, 0, 0.762);
+  max-width:45vw;
+  margin:auto;
+  padding-left:20vw;
+  padding-right:20vw;
+  padding-top:5vw;
+  padding-bottom:5vw;
+  border:3px solid rgba(75, 74, 74, 0.318); 
+  border-radius:10px;
+}
+#save-el{
+  background-color:rgb(28, 28, 28);
+  color: rgb(247, 224, 224);
+  font-size:25px;
+  font-weight:bold;
+}
+
+h1{
+  margin-top:10px;
+  margin-bottom:20px;
+  font-size:80px;
+}
+
+h2{
+  font-size:90px;
+  margin-top:0;
+  margin-bottom:20px;
+}
+button:hover{
+  cursor:pointer;
+}
+
+button{
+  padding-top:10px;
+  padding-bottom:10px;
+  color:rgb(255, 255, 255);
+  font-weight:bold;
+  width:200px;
+  margin-bottom:5px;
+  border-radius:5px;
+}
+#increment-btn{
+  background:rgb(41, 198, 57);
+  border-color:rgb(0, 0, 0);
+  margin:1.5vw;
+  height:5vh;
+  font-size:17px;
+  /*box-shadow*/
+}
+#save-btn{
+  background:rgb(15, 17, 47);
+  border-color:rgb(0, 0, 0);
+  margin:1.5vw;
+  height:5vh;
+  font-size:17px;
+}
+#save-remove{
+  background-color:rgb(143, 45, 45);
+  border-color:black;
+  height:5vh;
+  margin:1.5vw;
+  margin-bottom:3vw;
+  font-size:17px;
+}
