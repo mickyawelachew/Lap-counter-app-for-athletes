@@ -33,7 +33,7 @@ h1{
 }
 
 h2{
-  font-size:90px;
+  font-size:9vw;
   margin-top:0;
   margin-bottom:20px;
 }
@@ -62,7 +62,7 @@ button{
   border-color:rgb(0, 0, 0);
   margin:1.5vw;
   height:5vh;
-  font-size:17px;
+  font-size:17vw;
   width:20vh;
 }
 #save-remove{
@@ -73,5 +73,5 @@ button{
   align-items:center;
   margin:1.5vw;
   margin-bottom:3vw;
-  font-size:17px;
+  font-size:17vw;
 }
